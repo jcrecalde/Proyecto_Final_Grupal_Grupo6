@@ -5,7 +5,9 @@
 <h1 align='center'>
  <b>PROYECTO FINAL GRUPAL</b>
 </h1>
- 
+
+<p align='center'>Integrantes: Tomás Muñoz Burgos, Pedro Rozadas, Hernán Campodónico, Juan Cruz Recalde, Elina Ferreghini.
+<p>
 
 # <h1 align="center">**`SISTEMA DE ALERTAS SISMICAS`**</h1>
 
