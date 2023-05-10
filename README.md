@@ -6,7 +6,12 @@
  <b>PROYECTO FINAL GRUPAL</b>
 </h1>
 
-<p align='center'>Integrantes: Tomás Muñoz Burgos, Pedro Rozadas, Hernán Campodónico, Juan Cruz Recalde, Elina Ferreghini.
+<p>Integrantes: 
+   Tomás Muñoz Burgos, 
+   Pedro Rozadas, 
+   Hernán Campodónico, 
+   Juan Cruz Recalde, 
+   Elina Ferreghini.
 <p>
 
 # <h1 align="center">**`SISTEMA DE ALERTAS SISMICAS`**</h1>
@@ -103,22 +108,19 @@ Teniendo en cuenta todos estos factores, optamos con incorporar a Perú a nuestr
 
 ## **Probables KPIs**
 
-Como empresa encargada de generar una base de datos de sismos y elaborar un sistema de clasificación de alertas, se pueden elaborar varios KPIS para medir el éxito y la eficacia, en principio para la elaboración de nuestro proyecto y posteriormente para el seguimiento del mismo una vez puesto en marcha. No está de más volver a aclarar que ésto es solo un análisis temprano, corrrespondiente a la primera visualización de los datos. Algunos de estos KPIS pueden ser:
+Como empresa nos encargamos de elaborar varios KPIS para medir la eficacia, en principio para la elaboración de nuestro proyecto y posteriormente para el seguimiento del mismo una vez puesto en marcha. No está de más volver a aclarar que ésto es solo un análisis temprano, corrrespondiente a la primera visualización de los datos. 
 
+Algunos de estos KPIS pueden ser:
 
-1.Precisión en la detección: Medición de la cantidad de sismos detectados correctamente y su concordancia con los registros de los demás países involucrados en la iniciativa.
+Tiempo de respuesta: Mejorar el tiempo que transcurre desde la detección de un sismo hasta la emisión de la alerta correspondiente.
 
-2.Tiempo de respuesta: Medición del tiempo que transcurre desde la detección de un sismo hasta la emisión de la alerta correspondiente.
+Tiempo de transmisión: Mejorar el tiempo desde la emisión de la alerta hasta la transmisión de la información a las autoridades correspondientes y su puesta en marcha de las acciones necesarias.
 
-3.Tiempo de transmisión: Medición del tiempo desde la emisión de la alerta hasta la transmisión de la información a las autoridades correspondientes y su puesta en marcha de las acciones necesarias.
+Cobertura geográfica: Mejorar la cantidad de áreas geográficas cubiertas por el sistema de alertas.
 
-4.Cobertura geográfica: Medición de la cantidad de áreas geográficas cubiertas por el sistema de alertas.
+Nivel de peligrosidad asignado: Mejorar la precisión de la asignación de los niveles de peligrosidad a cada sismo, comparando los datos reales con los niveles de peligrosidad asignados por el sistema de alertas.
 
-5.Cantidad de alertas emitidas: Medición de la cantidad de alertas emitidas y su frecuencia.
-
-6.Nivel de peligrosidad asignado: Medición de la precisión de la asignación de los niveles de peligrosidad a cada sismo, comparando los datos reales con los niveles de peligrosidad asignados por el sistema de alertas.
-
-7.Accesibilidad: Medición del grado de accesibilidad a la información y herramientas de la base de datos y el sistema de alertas para los usuarios finales.
+Accesibilidad: Mejorar el grado de accesibilidad a la información y el sistema de alertas para los usuarios finales.
 
 
 Nos resulta fundamental destacar que si bien hemos planteado algunas posibles métricas, aún es temprano para decidir cuáles serán las más relevantes. Debemos recordar que todavía no disponemos de los datos definitivos, y que estamos en la etapa de análisis y exploración de los mismos.
